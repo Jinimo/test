@@ -1,2 +1,4 @@
 red hat
 blue shoe
+
+온라인에서 독자적으로 변경한 값 
